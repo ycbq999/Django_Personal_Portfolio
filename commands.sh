@@ -23,3 +23,5 @@ python manage.py changepassword username
 
 # Collecting Static Files Into One Folder
 python manage.py collectstatic
+
+# admin ps: Guest@987654321

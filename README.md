@@ -4,5 +4,8 @@
 
 in the commands.sh, it is a cheatsheet for the basic commands
 
-This simple app is to build a password generator from scratch using django framework. This is a tutorial from udemy and intent to learn basic of django. 
+This is the first decent Django app for my personal website. It has my portfolio and blog
 
+Again the purpose of this app is for Django tutorail. 
+
+From Udemy
